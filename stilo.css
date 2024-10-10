@@ -1,10 +1,10 @@
 body {
-    background:#eb0707a6;
-    font-family: Helvetica;
+    background:#07dceba6;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 section {
-    background-color: rgb(184, green156, blue213);
-    padding-bottom: 80 px;
-    padding-top: ;
+    background-color: rgb(213, 156, 168);
+    padding-bottom: 5%;
+    padding-top: 5%;
 }
