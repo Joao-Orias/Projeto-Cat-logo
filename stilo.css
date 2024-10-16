@@ -1,6 +1,6 @@
 body {
     background:#baeb07a6;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Chakra Petch"
 }
 
 section {
@@ -10,6 +10,19 @@ section {
     display: flex;
     justify-content: center;
 }
+header{
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(42, 122, 228);
+}
 .texto {
 margin-right: 80px;
 }
+h1{
+    font-size: 40px;
+    }
+    
+    p{
+    font-size: 20px;
+    }
