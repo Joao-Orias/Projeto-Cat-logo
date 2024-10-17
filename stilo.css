@@ -19,6 +19,10 @@ header{
 .texto {
 margin-right: 80px;
 }
+.musica {
+font-family: "chakra Petch";
+}
+
 h1{
     font-size: 40px;
     }
