@@ -35,6 +35,6 @@ h1{
     }
     .categoria-videos {
         display: flex;
-        overflow: autor;
-        gap: 15px
+        overflow: auto;
+        gap: 15px;
     }
