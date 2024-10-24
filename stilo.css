@@ -32,13 +32,13 @@ h1{
    
     }
     section {
-        background-color: rgb(156, 211, 213);
+        background-color: rgb(167, 12, 128);
         padding-bottom: 5%;
         padding-top: 5%;
         display: flex;
 
     }
-    
+
     img {
         height: 200px;
     }
