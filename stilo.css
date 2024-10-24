@@ -33,4 +33,8 @@ h1{
     img {
         height: 200px; height: 200px; height: 200px; height: 200px; height: 200px
     }
-    
+    .categoria-videos {
+        display: flex;
+        overflow: autor;
+        gap: 15px
+    }
