@@ -32,7 +32,7 @@ h1{
    
     }
     .lista {
-        background-color: rgba(15, 15, 15, 0.055);
+        background-color: rgb(206, 245, 212);
 
     }
 .categorias-videos img{
@@ -41,7 +41,7 @@ h1{
 }
 .categorias-videos img:hover{
     opacity: 1.0;
-    border: 1px solid rgba(55, 56, 52, 0.055)
+    border: 1px solid rgb(230, 233, 226)
 }
     .categoria-videos {
         display: flex;
