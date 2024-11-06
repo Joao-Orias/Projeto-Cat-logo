@@ -9,7 +9,7 @@ section {
     padding-top: 5%;
     display: flex;
     justify-content: center;
-}
+}.
 header{
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
@@ -35,10 +35,11 @@ h1{
         background-color: rgb(167, 12, 128);
 
     }
+categorias-videos img{
+    opacity: 0.5;
+    height: 200px;
+}
 
-    img {
-        height: 200px;
-    }
     .categoria-videos {
         display: flex;
         overflow: auto;
