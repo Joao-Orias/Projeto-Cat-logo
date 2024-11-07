@@ -4,7 +4,7 @@ body {
 }
 
 section {
-    background-color: rgb(230, 217, 235);
+    background-color: rgb(58, 40, 14);
     padding-bottom: 5%;
     padding-top: 5%;
     display: flex;
@@ -41,7 +41,7 @@ h1{
 }
 .categorias-videos img:hover{
     opacity: 1.0;
-    border: 1px solid rgb(77, 97, 50)
+    border: 1px solid rgb(60, 78, 37)
 }
     .categoria-videos {
         display: flex;
